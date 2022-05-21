@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "type": "multiplicacion",
+    "params": "13 y 11",
+    "res": "143",
+    "timestamp": "21/5/2022"
+  },
+  {
+    "id": 2,
+    "type": "suma",
+    "params": "13 y 10",
+    "res": "23",
+    "timestamp": "21/5/2022"
+  },
+  {
+    "id": 3,
+    "type": "suma",
+    "params": "13 y 10",
+    "res": "23",
+    "timestamp": "21/5/2022"
+  },
+  {
+    "id": 4,
+    "type": "suma",
+    "params": "13 y 10",
+    "res": "23",
+    "timestamp": "21/5/2022"
+  },
+  {
+    "id": 5,
+    "type": "suma",
+    "params": "13 y 10",
+    "res": "23",
+    "timestamp": "21/5/2022"
+  },
+  {
+    "id": 7,
+    "type": "suma",
+    "params": "13 y 10",
+    "res": "23",
+    "timestamp": "21/5/2022"
+  },
+  {
+    "id": 8,
+    "type": "suma",
+    "params": "13 y 10",
+    "res": "23",
+    "timestamp": "21/5/2022"
+  },
+  {
+    "id": 9,
+    "type": "resta",
+    "params": "13 y 10",
+    "res": "3",
+    "timestamp": "21/5/2022"
+  },
+  {
+    "id": 10,
+    "type": "resta",
+    "params": "13 y 10",
+    "res": "3",
+    "timestamp": "21/5/2022"
+  }
+]
